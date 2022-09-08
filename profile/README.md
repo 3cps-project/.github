@@ -17,7 +17,10 @@ key to mapping the source language efficiently onto these resources.
 > by Benjamin Quiring, John Reppy, and Olin Shivers. <br>
 > *Proceedings of the ACM on Programming Languages*,
 > Volume 6, Issue ICFP, Article Number 114,
-> August 2022.
+> August 2022. <br>
+> The artifacts associated with this paper can be found at either
+> <https://github.com/3cps-project/icfp2022-artifacts> or
+> <https://zenodo.org/record/6958457>.
 
 > [**3CPS: The Design of an Environment-Focussed Intermediate Representation**](https://doi.org/10.1145/3544885.3544889) <br>
 > by Benjamin Quiring, John Reppy, and Olin Shivers. <br>
