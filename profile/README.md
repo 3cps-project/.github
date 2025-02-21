@@ -34,11 +34,13 @@ The 3CPS project is led by John Reppy (University of Chicago) and
 Olin Shivers (Northeastern University).  The currently active participants
 are (in alphabetical order):
 
-* Nathan Cantor (UChicago)
+* Jason Carr (UChicago)
+* Alan Hu (Northeastern)
 * Benjamin Quiring (University of Maryland; previously at Northeastern)
 * John Reppy (UChicago)
 * Olin Shivers (Northeastern)
 * Skye Soss (UChicago)
+* Lingxiao Zheng (Northeastern)
 * Byron Zhong (UChicago)
 
 ## Support
