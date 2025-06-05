@@ -13,6 +13,12 @@ key to mapping the source language efficiently onto these resources.
 
 ## Publications
 
+> [**Webs and Flow-Directed Well-Typedness Preserving Program Transformations**](https://dl.acm.org/doi/10.1145/3729280) <br>
+> by Benjamin Quiring, David Van Horn, John Reppy, and Olin Shivers. <br>
+> To appear in the *Proceedings of the ACM on Programming Languages*,
+> Volume 9, Issue PLDI, Article Number 177,
+> June 2025. <br>
+
 > [**Analyzing binding extent in 3CPS**](https://dl.acm.org/doi/10.1145/3547645) <br>
 > by Benjamin Quiring, John Reppy, and Olin Shivers. <br>
 > *Proceedings of the ACM on Programming Languages*,
@@ -35,13 +41,17 @@ Olin Shivers (Northeastern University).  The currently active participants
 are (in alphabetical order):
 
 * Jason Carr (UChicago)
-* Alan Hu (Northeastern)
 * Benjamin Quiring (University of Maryland; previously at Northeastern)
 * John Reppy (UChicago)
 * Olin Shivers (Northeastern)
 * Skye Soss (UChicago)
 * Lingxiao Zheng (Northeastern)
 * Byron Zhong (UChicago)
+
+Previous contributors:
+
+* Nathan Cantor
+* Alan Hu
 
 ## Support
 
